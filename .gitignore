@@ -1,3 +1,6 @@
+public/
+secrets.json
+
 # Logs
 logs
 *.log
