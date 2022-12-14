@@ -1,6 +1,6 @@
 public/
 secret/
-
+key.js
 # Logs
 logs
 *.log
