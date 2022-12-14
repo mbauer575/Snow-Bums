@@ -1,5 +1,5 @@
 public/
-secrets.json
+secret/
 
 # Logs
 logs
